@@ -1,7 +1,18 @@
+layout_spectrum: 0.5361057613044977
+typography_spectrum: 0.17496476718224585
+color:
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  brandStrength: 0.6271704675164074
+  lightness: 0.864605852868408
+  saturation: 0.7934490314219147
+  rhythmicContrast: 0.9930186446290463
 name: Christian Raharjo
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.49107
 cta:
   domain: null
   bucket: null
@@ -14,15 +25,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.375
-  lightness: 0.6006458536721766
-  saturation: 0.3125
-  rhythmicContrast: 0.5
 purpose: []
